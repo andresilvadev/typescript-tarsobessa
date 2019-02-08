@@ -1,0 +1,26 @@
+{
+  "name": "typescript-tarsobessa",
+  "version": "1.0.0",
+  "description": "- Comando para ver a versão do seu typescript\r `$ tsc -v`",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresilvadev/typescript-tarsobessa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresilvadev/typescript-tarsobessa/issues"
+  },
+  "homepage": "https://github.com/andresilvadev/typescript-tarsobessa#readme",
+  "dependencies": {
+    "lodash": "^4.14.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.120"
+  }
+}

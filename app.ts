@@ -1,5 +1,8 @@
-import { Spacecraft, Containership } from "./base-ships";
-import { MillenniumFalcon } from "./starfighters";
+import { Spacecraft, Containership } from "./base-ships"
+import { MillenniumFalcon } from "./starfighters"
+import * as _ from 'lodash'  // Esta forma de importar chama-se namespace import
+
+console.log(_.pad("Typescript Examples", 40, "="))
 
 
 /*------------------------------------|
