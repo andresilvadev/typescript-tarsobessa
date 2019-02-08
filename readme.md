@@ -9,3 +9,6 @@
 
 - Comando que deixa o compilador rodando em background
 `$ tsc -w` 
+
+- Rodar comando para testar a aplicação
+`$ node dist/app` 

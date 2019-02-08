@@ -71,9 +71,3 @@ function inc (speed: number, inc: number = 1): number {
 
 console.log(`inc (5,1) = ${inc(5,1)}`)
 console.log(`inc (5,1) = ${inc(5)}`)
-
-
-/** run comands in terminal for test */
-/**
- * $ node dist/app
- */
